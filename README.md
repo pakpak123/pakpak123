@@ -2,7 +2,7 @@
 <h3 align="center">I’m a Third year computer engineering staudent at King Mongkut's Institute of Technology Ladkrabang.</h3>
  <h3 align="center">I'm interested in UX/UI, Data analytics, Machine Learning, Web Development, Chatbot and etc.</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.canva.com/design/DAFSMbNM7bM/_mgzXNbGWED5USjZQKfgcA/view?utm_content=DAFSMbNM7bM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFSMbNM7bM/_mgzXNbGWED5USjZQKfgcA/view?utm_content=DAFSMbNM7bM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 👨‍💻 this is a my resume --> [https://www.canva.com/design/DAFSMbNM7bM/_mgzXNbGWED5USjZQKfgcA/view?utm_content=DAFSMbNM7bM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFSMbNM7bM/_mgzXNbGWED5USjZQKfgcA/view?utm_content=DAFSMbNM7bM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - 📫 How to reach me **nichapa.pak19@gmail.com**
 
