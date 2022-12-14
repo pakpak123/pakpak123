@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ฺBenz</h1>
+<h1 align="center">Hi 👋, I'm Benz</h1>
 <h3 align="center">I’m a Third year computer engineering staudent at King Mongkut's Institute of Technology Ladkrabang. I'm interested in UX/UI, Data analytics, Machine Learning, Web Development, Chatbot and etc.</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.canva.com/design/DAFSMbNM7bM/_mgzXNbGWED5USjZQKfgcA/view?utm_content=DAFSMbNM7bM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFSMbNM7bM/_mgzXNbGWED5USjZQKfgcA/view?utm_content=DAFSMbNM7bM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
