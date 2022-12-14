@@ -1,5 +1,12 @@
-### Hi there 👋
-🔭 I’m currently working on Visual studio, Collab and Figma.
+<h>### Hi there 👋, I'm Benz</h>
+
+I’m a Third year computer engineering staudent at King Mongkut's Institute of Technology Ladkrabang. I'm interested in UX/UI, Data analytics, Machine Learning, Web Development, Chatbot and etc.
+
+Contact with me: 
+- Email : nichapa.pak19@gmail.com
+- Linkedin : https://www.linkedin.com/in/nichapa-pakngao-7201a8256/ 
+
+
 
 <!--
 **pakpak123/pakpak123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
