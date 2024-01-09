@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benz</h1>
-<h3 align="center">I’m a Third year computer engineering student at King Mongkut's Institute of Technology Ladkrabang.</h3>
+<h3 align="center">I’m a Fouth year computer engineering student at King Mongkut's Institute of Technology Ladkrabang.</h3>
  <h3 align="center">I'm interested in UX/UI, Data analytics, Machine Learning, Web Development, Chatbot and etc.</h3>
 
 - 👨‍💻 this is a my resume --> [https://www.canva.com/design/DAFSMbNM7bM/_mgzXNbGWED5USjZQKfgcA/view?utm_content=DAFSMbNM7bM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFSMbNM7bM/_mgzXNbGWED5USjZQKfgcA/view?utm_content=DAFSMbNM7bM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
